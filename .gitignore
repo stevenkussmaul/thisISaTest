@@ -1,0 +1,8 @@
+# Default ignored files
+/.idea/workspace.xml
+# Default ignored files
+/.idea/workspace.xml
+*.DS_Store
+*.class
+*.iml
+.idea/
